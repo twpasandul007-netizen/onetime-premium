@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+  <key>PayloadType</key>
+  <string>Configuration</string>
+
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+
+  <key>PayloadIdentifier</key>
+  <string>com.onetimepremium.profile</string>
+
+  <key>PayloadUUID</key>
+  <string>F3A1E1A2-7D9C-4F3A-BF11-9A9A9A9A9A9A</string>
+
+  <key>PayloadDisplayName</key>
+  <string>Onetime Premium</string>
+
+  <key>PayloadOrganization</key>
+  <string>Onetime Premium</string>
+
+  <key>PayloadRemovalDisallowed</key>
+  <false/>
+
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+
+      <key>PayloadType</key>
+      <string>com.apple.webClip.managed</string>
+
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+
+      <key>PayloadIdentifier</key>
+      <string>com.onetimepremium.webclip</string>
+
+      <key>PayloadUUID</key>
+      <string>A1B2C3D4-1111-2222-3333-444444444444</string>
+
+      <key>Label</key>
+      <string>Onetime Premium</string>
+
+      <key>URL</key>
+      <string>https://www.onetimepremium.com/p/onetime-premium-maroon-yellow-global.html</string>
+
+      <key>FullScreen</key>
+      <true/>
+
+      <key>IsRemovable</key>
+      <true/>
+
+      <key>IgnoreManifestScope</key>
+      <true/>
+
+      <key>Precomposed</key>
+      <true/>
+
+    </dict>
+  </array>
+
+</dict>
+</plist>
